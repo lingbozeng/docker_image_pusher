@@ -6,3 +6,4 @@ nginx
 #--platform=linux/arm64 xiaoyaliu/alist
 pytorch/pytorch:2.3.0-cuda12.1-cudnn8-runtime
 quay.io/jupyter/pytorch-notebook:cuda12-pytorch-2.3.1
+rockylinux:9
