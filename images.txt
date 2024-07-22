@@ -8,3 +8,5 @@ pytorch/pytorch:2.3.0-cuda12.1-cudnn8-runtime
 quay.io/jupyter/pytorch-notebook:cuda12-pytorch-2.3.1
 rockylinux:9
 ubuntu:22.04
+centos:7
+centos:8
