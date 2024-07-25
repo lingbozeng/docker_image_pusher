@@ -10,3 +10,4 @@ rockylinux:9
 ubuntu:22.04
 centos:7
 centos:8
+golang:1.22
