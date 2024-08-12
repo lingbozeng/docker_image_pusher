@@ -12,3 +12,4 @@ centos:7
 centos:8
 golang:1.22
 golang:1.21
+mysql:5.7
