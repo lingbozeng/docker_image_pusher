@@ -1,16 +1,16 @@
-nginx
+#nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-pytorch/pytorch:2.3.0-cuda12.1-cudnn8-runtime
-quay.io/jupyter/pytorch-notebook:cuda12-pytorch-2.3.1
-rockylinux:9
-ubuntu:22.04
-centos:7
-centos:8
-golang:1.22
-golang:1.21
-mysql:5.7
-jenkins:2.440.2-jdk17
+#pytorch/pytorch:2.3.0-cuda12.1-cudnn8-runtime
+#quay.io/jupyter/pytorch-notebook:cuda12-pytorch-2.3.1
+#rockylinux:9
+#ubuntu:22.04
+#centos:7
+#centos:8
+#golang:1.22
+#golang:1.21
+#mysql:5.7
+jenkins/jenkins:2.440.2-jdk17
