@@ -13,4 +13,5 @@
 #golang:1.22
 #golang:1.21
 #mysql:5.7
-jenkins/jenkins:2.440.2-jdk17
+#jenkins/jenkins:2.440.2-jdk17
+jupyter/minimal-notebook:ubuntu-22.04
