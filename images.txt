@@ -25,4 +25,5 @@
 #nginx:latest
 #ollama/ollama:0.3.7
 #kubeflowkatib/pytorch-mnist-cpu:v1beta1-21320b6
-kubeflow/tf-dist-mnist-test:v1-2455f7d
+#kubeflow/tf-dist-mnist-test:v1-2455f7d
+kubeflowkatib/pytorch-mnist-gpu:v1beta1-a524f33
