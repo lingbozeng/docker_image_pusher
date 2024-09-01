@@ -23,4 +23,6 @@
 #langgenius/dify-api:0.7.1
 #langgenius/dify-web:0.7.1
 #nginx:latest
-ollama/ollama:0.3.7
+#ollama/ollama:0.3.7
+kubeflowkatib/pytorch-mnist-cpu:v1beta1-21320b6
+kubeflow/tf-dist-mnist-test:latest
