@@ -32,4 +32,5 @@
 #quay.io/jupyter/pytorch-notebook:x86_64-cuda12-notebook-7.2.1
 #quay.io/jupyter/scipy-notebook:x86_64-notebook-7.2.1
 #quay.io/jupyter/tensorflow-notebook:x86_64-cuda-notebook-7.2.1
-quay.io/jupyter/all-spark-notebook:x86_64-notebook-7.2.1
+#quay.io/jupyter/all-spark-notebook:x86_64-notebook-7.2.1
+kubeflow/training-operator:v1-855e096
