@@ -35,5 +35,8 @@
 #quay.io/jupyter/all-spark-notebook:x86_64-notebook-7.2.1
 #kubeflow/training-operator:v1-855e096
 #qwenllm/qwen-mindspore:v23.0.RC3
-influxdb:2
-
+#influxdb:2
+grafana/grafana:10.2.2
+prom/prometheus
+prom/alertmanager
+registry.gitlab.com/yakshaving.art/alertsnitch
