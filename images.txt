@@ -36,7 +36,8 @@
 #kubeflow/training-operator:v1-855e096
 #qwenllm/qwen-mindspore:v23.0.RC3
 #influxdb:2
-grafana/grafana:10.2.2
-prom/prometheus
-prom/alertmanager
-registry.gitlab.com/yakshaving.art/alertsnitch
+#grafana/grafana:10.2.2
+telegraf:1.32
+#prom/prometheus
+#prom/alertmanager
+#registry.gitlab.com/yakshaving.art/alertsnitch
