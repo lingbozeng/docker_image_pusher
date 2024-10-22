@@ -37,7 +37,11 @@
 #qwenllm/qwen-mindspore:v23.0.RC3
 #influxdb:2
 #grafana/grafana:10.2.2
-telegraf:1.32
+#telegraf:1.32
 #prom/prometheus
 #prom/alertmanager
 #registry.gitlab.com/yakshaving.art/alertsnitch
+redis:alpine
+mysql:8
+ghcr.io/pkuhpc/novnc-client-docker:master
+fluentd:v1.14.0-1.0
