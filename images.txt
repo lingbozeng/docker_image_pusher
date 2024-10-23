@@ -41,7 +41,8 @@
 #prom/prometheus
 #prom/alertmanager
 #registry.gitlab.com/yakshaving.art/alertsnitch
-redis:alpine
-mysql:8
-ghcr.io/pkuhpc/novnc-client-docker:master
-fluentd:v1.14.0-1.0
+#redis:alpine
+#mysql:8
+#ghcr.io/pkuhpc/novnc-client-docker:master
+#fluentd:v1.14.0-1.0
+qwenllm/qwen:2-cu121
