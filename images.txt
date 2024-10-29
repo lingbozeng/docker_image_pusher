@@ -46,4 +46,4 @@
 #ghcr.io/pkuhpc/novnc-client-docker:master
 #fluentd:v1.14.0-1.0
 #qwenllm/qwen:2-cu121
-vulhub/flask
+python:3.11.10-slim
