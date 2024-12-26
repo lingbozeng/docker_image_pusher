@@ -50,4 +50,5 @@
 #projecthami/volcano-vgpu-device-plugin:latest
 #debian:stretch-slim
 #ubuntu:20.04
---platform=linux/arm64/v8 node:20-alpine
+#--platform=linux/arm64/v8 node:20-alpine
+rockylinux/rockylinux:8.10
