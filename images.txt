@@ -52,4 +52,5 @@
 #ubuntu:20.04
 #--platform=linux/arm64/v8 node:20-alpine
 #rockylinux/rockylinux:8.10
---platform=linux/arm64/v8 rockylinux/rockylinux:8
+#--platform=linux/arm64/v8 rockylinux/rockylinux:8
+nvidia/cuda:12.1.1-cudnn8-runtime-ubuntu22.04
