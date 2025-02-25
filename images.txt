@@ -54,4 +54,5 @@
 #rockylinux/rockylinux:8.10
 #--platform=linux/arm64/v8 rockylinux/rockylinux:8
 #nvidia/cuda:12.1.1-cudnn8-runtime-ubuntu22.04
-nvidia/cuda:12.1.1-cudnn8-devel-ubuntu22.04
+#nvidia/cuda:12.1.1-cudnn8-devel-ubuntu22.04
+nvidia/cuda:12.4.1-cudnn-devel-ubuntu22.04
