@@ -49,7 +49,7 @@
 #python:3.11.10-slim
 #projecthami/volcano-vgpu-device-plugin:latest
 #debian:stretch-slim
-#ubuntu:20.04
+ubuntu:20.04
 #--platform=linux/arm64/v8 node:20-alpine
 #rockylinux/rockylinux:8.10
 #--platform=linux/arm64/v8 rockylinux/rockylinux:8
