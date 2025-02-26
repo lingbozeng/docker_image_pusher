@@ -58,4 +58,4 @@ ubuntu:20.04
 #nvidia/cuda:12.4.1-cudnn-devel-ubuntu22.04
 #nvidia/cuda:12.2.2-runtime-ubuntu22.04
 #--platform=linux/arm64/v8 ubuntu:22.04
-node:lts-alpine
+--platform=linux/arm64/v8 node:lts-alpine
