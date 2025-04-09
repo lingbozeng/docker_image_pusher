@@ -63,3 +63,4 @@ rockylinux:8.5
 labring/kubernetes:v1.28.5
 labring/helm:v3.8.2
 labring/calico:v3.24.6
+goharbor/prepare:v2.7.4
