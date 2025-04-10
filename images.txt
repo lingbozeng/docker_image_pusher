@@ -64,3 +64,5 @@ labring/kubernetes:v1.28.5
 labring/helm:v3.8.2
 labring/calico:v3.24.6
 goharbor/prepare:v2.7.4
+nvidia/k8s-device-plugin:1.11
+nvcr.io/nvidia/k8s-device-plugin:v0.15.0
