@@ -58,11 +58,12 @@ ubuntu:20.04
 #nvidia/cuda:12.4.1-cudnn-devel-ubuntu22.04
 #nvidia/cuda:12.2.2-runtime-ubuntu22.04
 #--platform=linux/arm64/v8 ubuntu:22.04
---platform=linux/arm64/v8 node:lts-alpine
-rockylinux:8.5
-labring/kubernetes:v1.28.5
-labring/helm:v3.8.2
-labring/calico:v3.24.6
-goharbor/prepare:v2.7.4
-nvidia/k8s-device-plugin:1.11
-nvcr.io/nvidia/k8s-device-plugin:v0.15.0
+#--platform=linux/arm64/v8 node:lts-alpine
+#rockylinux:8.5
+#labring/kubernetes:v1.28.5
+#labring/helm:v3.8.2
+#labring/calico:v3.24.6
+#goharbor/prepare:v2.7.4
+#nvidia/k8s-device-plugin:1.11
+#nvcr.io/nvidia/k8s-device-plugin:v0.15.0
+nvidia/cuda:11.2.2-runtime-ubuntu20.04
