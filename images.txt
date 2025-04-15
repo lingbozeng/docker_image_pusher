@@ -66,4 +66,5 @@ ubuntu:20.04
 #goharbor/prepare:v2.7.4
 #nvidia/k8s-device-plugin:1.11
 #nvcr.io/nvidia/k8s-device-plugin:v0.15.0
-nvidia/cuda:11.2.2-runtime-ubuntu20.04
+#nvidia/cuda:11.2.2-runtime-ubuntu20.04
+nvidia/cuda:11.8.0-runtime-ubuntu22.04
