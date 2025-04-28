@@ -71,4 +71,5 @@ ubuntu:20.04
 #mysql:5.7.33
 #golang:1.22-alpine3.20
 #alpine:3.20
-mysql:8.4.4
+#mysql:8.4.4
+obeliks/comfyui:master-cu124
