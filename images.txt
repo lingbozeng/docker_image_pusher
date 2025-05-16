@@ -41,15 +41,15 @@
 #prom/prometheus
 #prom/alertmanager
 #registry.gitlab.com/yakshaving.art/alertsnitch
-#redis:alpine
-#mysql:8
+redis:alpine
+mysql:8
 #ghcr.io/pkuhpc/novnc-client-docker:master
 #fluentd:v1.14.0-1.0
 #qwenllm/qwen:2-cu121
 #python:3.11.10-slim
 #projecthami/volcano-vgpu-device-plugin:latest
 #debian:stretch-slim
-ubuntu:20.04
+#ubuntu:20.04
 #--platform=linux/arm64/v8 node:20-alpine
 #rockylinux/rockylinux:8.10
 #--platform=linux/arm64/v8 rockylinux/rockylinux:8
@@ -72,4 +72,4 @@ ubuntu:20.04
 #golang:1.22-alpine3.20
 #alpine:3.20
 #mysql:8.4.4
-obeliks/comfyui:master-cu124
+#obeliks/comfyui:master-cu124
