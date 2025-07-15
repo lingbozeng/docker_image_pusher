@@ -73,5 +73,6 @@ mysql:8
 #alpine:3.20
 #mysql:8.4.4
 #obeliks/comfyui:master-cu124
-alpine:3.22
-golang:1.24.3-alpine3.22
+#alpine:3.22
+#golang:1.24.3-alpine3.22
+centos:7.9.2009
