@@ -41,8 +41,8 @@
 #prom/prometheus
 #prom/alertmanager
 #registry.gitlab.com/yakshaving.art/alertsnitch
-redis:alpine
-mysql:8
+#redis:alpine
+#mysql:8
 #ghcr.io/pkuhpc/novnc-client-docker:master
 #fluentd:v1.14.0-1.0
 #qwenllm/qwen:2-cu121
@@ -77,4 +77,6 @@ mysql:8
 #golang:1.24.3-alpine3.22
 #centos:7.9.2009
 #rockylinux:8.6
---platform=linux/arm64/v8 node:lts-alpine
+#--platform=linux/arm64/v8 node:lts-alpine
+--platform=linux/arm64/v8 mysql:8
+--platform=linux/arm64/v8 redis:alpine
