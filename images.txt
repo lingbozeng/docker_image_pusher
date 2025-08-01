@@ -80,4 +80,5 @@
 #--platform=linux/arm64/v8 node:lts-alpine
 #--platform=linux/arm64/v8 mysql:8
 #--platform=linux/arm64/v8 redis:alpine
-goharbor/prepare:v2.7.4
+#goharbor/prepare:v2.7.4
+goharbor/redis-photon:v2.7.4
