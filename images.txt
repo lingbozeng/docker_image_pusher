@@ -78,5 +78,6 @@
 #centos:7.9.2009
 #rockylinux:8.6
 #--platform=linux/arm64/v8 node:lts-alpine
---platform=linux/arm64/v8 mysql:8
---platform=linux/arm64/v8 redis:alpine
+#--platform=linux/arm64/v8 mysql:8
+#--platform=linux/arm64/v8 redis:alpine
+goharbor/prepare:v2.7.4
