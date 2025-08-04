@@ -81,4 +81,5 @@
 #--platform=linux/arm64/v8 mysql:8
 #--platform=linux/arm64/v8 redis:alpine
 #goharbor/prepare:v2.7.4
-goharbor/redis-photon:v2.7.4
+#goharbor/redis-photon:v2.7.4
+docker.io/projecthami/volcano-vgpu-device-plugin:v1.10.0
