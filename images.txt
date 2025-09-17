@@ -82,4 +82,5 @@
 #--platform=linux/arm64/v8 redis:alpine
 #goharbor/prepare:v2.7.4
 #goharbor/redis-photon:v2.7.4
-docker.io/projecthami/volcano-vgpu-device-plugin:v1.10.0
+#docker.io/projecthami/volcano-vgpu-device-plugin:v1.10.0
+nvidia/cuda:11.8.0-cudnn8-devel-rockylinux8
