@@ -84,4 +84,5 @@
 #goharbor/redis-photon:v2.7.4
 #docker.io/projecthami/volcano-vgpu-device-plugin:v1.10.0
 #nvidia/cuda:11.8.0-cudnn8-devel-rockylinux8
-codercom/code-server:4.104.0-39
+#codercom/code-server:4.104.0-39
+quay.io/jupyter/pytorch-notebook:cuda11-notebook-7.4.5
