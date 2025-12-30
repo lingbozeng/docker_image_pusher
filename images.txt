@@ -87,4 +87,5 @@
 #codercom/code-server:4.104.0-39
 #quay.io/jupyter/pytorch-notebook:cuda11-notebook-7.4.5
 #ubuntu:24.04
---platform=linux/arm64/v8 ubuntu:22.04
+#--platform=linux/arm64/v8 ubuntu:22.04
+gcr.io/etcd-development/etcd:v3.6.0
