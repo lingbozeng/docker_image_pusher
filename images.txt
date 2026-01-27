@@ -90,4 +90,5 @@
 #--platform=linux/arm64/v8 ubuntu:22.04
 #gcr.io/etcd-development/etcd:v3.6.0
 #registry.k8s.io/pause:3.8
-registry.k8s.io/pause:3.10.1
+#registry.k8s.io/pause:3.10.1
+rockylinux:9.6
