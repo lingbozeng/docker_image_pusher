@@ -93,3 +93,4 @@
 #registry.k8s.io/pause:3.10.1
 #rockylinux:9
 coredns/coredns:1.14.2
+mintplexlabs/anythingllm:latest
