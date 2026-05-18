@@ -94,6 +94,7 @@
 #rockylinux:9
 #coredns/coredns:1.14.2
 #mintplexlabs/anythingllm:latest
-alpine/git:v2.52.0
-aquasec/trivy:latest
-docker:24
+#alpine/git:v2.52.0
+#aquasec/trivy:latest
+#docker:24
+nicolaka/netshoot
