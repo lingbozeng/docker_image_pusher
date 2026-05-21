@@ -97,4 +97,5 @@
 #alpine/git:v2.52.0
 #aquasec/trivy:latest
 #docker:24
-nicolaka/netshoot
+#nicolaka/netshoot
+redpandadata/redpanda:v26.1.4-arm64
