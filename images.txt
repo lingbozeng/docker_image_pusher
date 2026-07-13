@@ -98,4 +98,5 @@
 #aquasec/trivy:latest
 #docker:24
 #nicolaka/netshoot
---platform=linux/arm64/v8 redpandadata/redpanda:v26.1.4-arm64
+#--platform=linux/arm64/v8 redpandadata/redpanda:v26.1.4-arm64
+debian:12
