@@ -99,4 +99,5 @@
 #docker:24
 #nicolaka/netshoot
 #--platform=linux/arm64/v8 redpandadata/redpanda:v26.1.4-arm64
-debian:12
+#debian:12
+redis:8.4.6-alpine3.22
