@@ -103,4 +103,5 @@
 #redis:8.4.6-alpine3.22
 #--platform=linux/arm64/v8 redis:8.4.6-alpine3.22
 #rockylinux/rockylinux:9.6
-swaggerapi/swagger-ui
+#swaggerapi/swagger-ui
+grafana/grafana:12.4.2
