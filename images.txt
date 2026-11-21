@@ -107,4 +107,5 @@
 #--platform=linux/arm64/v8 grafana/grafana:12.4.2
 #--platform=linux/arm64/v8 nginx:1.31.6
 #node:lts-alpine
-ghcr.io/pkuhpc/scow-pku/web:master
+#ghcr.io/pkuhpc/scow-pku/web:master
+codercom/code-server:4.145.2-39
